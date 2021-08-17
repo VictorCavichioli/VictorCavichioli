@@ -1,4 +1,4 @@
-### Olá! Somos a equipe The Looks Database👋
+### Olá! Sou o Victor Cavichioli👋
 
 - 🔭 Atualmente trabalhando com Java
 - 🌱 Estudante de Banco de Dados
